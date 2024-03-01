@@ -1,0 +1,131 @@
+body {
+  background-color: #403F4C;
+}
+
+.heading {
+  height: 40px;
+  margin-bottom: 5px;
+  background-color: #519E8A;
+  color: #403F4C;
+  text-align: center;
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.one {
+  display: flex;
+  background-color: #FFF2D8;
+  height: 400px;
+}
+
+.temple1 {
+  height: 350px;
+  width: 1700px;
+  background-size: cover;
+  background-image: url('sitabardi1.jpeg');
+  margin: 25px;
+  border: 5px solid #BCA37F;
+}
+
+.oneele h2 {
+  color: #113946;
+  text-align: center;
+}
+
+.oneele p {
+  color: #113946;
+}
+
+.oneimg {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 30px;
+}
+
+.oneimg1-1 {
+  display: flex;
+  height: 120px;
+  width: 160px;
+  border: 5px solid #BCA37F;
+  background-image: url('sitabardi2.jpeg');
+  background-size: cover;
+}
+
+.oneimg1-2 {
+  display: flex;
+  height: 120px;
+  width: 160px;
+  border: 5px solid #BCA37F;
+  background-image: url('sitabardi3.jpeg');
+  background-size: cover;
+}
+
+.oneimg1-3 {
+  display: flex;
+  height: 120px;
+  width: 160px;
+  border: 5px solid #BCA37F;
+  background-image: url('sitabardi4.jpeg');
+  background-size: cover;
+}
+
+.two {
+  display: flex;
+  background-color: #8ecae6;
+  height: 400px;
+  margin-top: 5px;
+}
+
+.temple2 {
+  height: 350px;
+  width: 1400px;
+  background-size: cover;
+  background-image: url('fort2.jpeg');
+  margin: 25px;
+  border: 5px solid #219ebc;
+}
+
+.twoele h2 {
+  color: #023047;
+  text-align: center;
+}
+
+.twoele p {
+  color: #023047;
+}
+
+.twoimg {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  margin: 30px;
+
+}
+
+.twoimg1-1 {
+  display: flex;
+  height: 120px;
+  width: 160px;
+  border: 5px solid #219ebc;
+  background-image: url('fort1.jpeg');
+  background-size: cover;
+}
+
+.twoimg1-2 {
+  display: flex;
+  height: 120px;
+  width: 160px;
+  border: 5px solid #219ebc;
+  background-image: url('fort3.jpeg');
+  background-size: cover;
+}
+
+.twoimg1-3 {
+  display: flex;
+  height: 120px;
+  width: 160px;
+  border: 5px solid #219ebc;
+  background-image: url('fort4.jpeg');
+  background-size: cover;
+}
